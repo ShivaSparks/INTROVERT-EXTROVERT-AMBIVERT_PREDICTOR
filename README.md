@@ -81,6 +81,20 @@ The models were evaluated using:
 4. Upload the dataset "personality_synthetic_dataset.csv" to the Colab working directory.
 5. Run all the cells sequentially.
 
+## References
+
+The following resources were used to understand the concepts and complete this project:
+
+- GeeksforGeeks – Exploratory Data Analysis (EDA)  
+  https://www.geeksforgeeks.org/data-analysis/what-is-exploratory-data-analysis/
+
+- YouTube – Exploratory Data Analysis Tutorial  
+  https://youtu.be/4P4UxXK7WE8
+
+- Coursera – Machine Learning Specialization by Andrew Ng  
+  https://www.coursera.org/specializations/machine-learning-introduction
+
+- ChatGPT (OpenAI) – Used for syntax guidance and also for learning.
 
 
 
